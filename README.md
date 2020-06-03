@@ -21,6 +21,12 @@
 - [Free Vector Illustrations](https://undraw.co/)
 - [SVGOMG - SVG Optimizer](https://jakearchibald.github.io/svgomg/)
 
+### Editor fonts
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [MonaLisa](https://www.monolisa.dev/) (paid)
+- [FiraCode](https://github.com/tonsky/FiraCode)
+- [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormono) (paid)
+
 ### SQL
 
 - [SQL Zoo](https://sqlzoo.net/)
